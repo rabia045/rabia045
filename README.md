@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rabia045
+- 👋 Hi, I’m Rabia Basri
 - 👀 I’m interested in Html, Css and WordPress
 - 🌱 I’m currently learning Javascript
 💞️ I’m looking to collaborate on Projects of Javascript
